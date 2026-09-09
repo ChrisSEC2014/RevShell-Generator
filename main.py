@@ -4,6 +4,9 @@ import re
 import signal
 import os
 import json
+import signal
+import socket
+import pty
 
 CONFIG_FILE = "rs.json"
 
